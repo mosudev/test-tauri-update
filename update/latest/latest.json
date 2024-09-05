@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV1dDMVVlZXJOaURvdXFEbmpwekZSTWlLTXl6NlZaeUNMNFNjQ1MvaEcvY3M1TjJiRUp6VWcwaUVFY21vMGd6TEp2cWxmdmVzS3U3YW1PTWRPZnFHMEd6V2RXRSttOGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1NDkzMjQ1CWZpbGU6U2VhbmltZSBEZXNrdG9wXzAuMS4wX3g2NC1zZXR1cC5leGUKaDREakJZOWpBeEkvYURjR2twZFd1VjFTTzErNHE1TmthMnNFSG9McFFUNDA5TnExcTQ3Z09DMUtPMGdtSDd4bkkxS1BlREp1TlNHNkRrRTV5UXdYQ3c9PQo=",
-      "url": "http://localhost:3001/test-tauri-latest/seanime-x86_64-pc-windows-msvc.exe.zip"
+      "url": "https://github.com/mosudev/test-tauri-update/raw/main/update/1/Seanime Desktop_0.1.0_x64-setup.exe.zip"
     }
   }
 }
